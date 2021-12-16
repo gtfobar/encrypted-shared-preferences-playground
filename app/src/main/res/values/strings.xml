@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SharedPrefs</string>
+    <string name="key_placeholder">enter key</string>
+    <string name="value_placeholder">enter value</string>
+    <string name="plain_text_shared_prefs">PlainTextSharedPrefs</string>
+    <string name="manually_encrypted_shared_prefs">ManuallyEncryptedSharedPrefs</string>
+    <string name="save_plain_text_button_label">1</string>
+    <string name="save_manually_encrypted_button_label">2</string>
+    <string name="error">error</string>
+    <string name="read_plain_text_button_label">1</string>
+    <string name="read_manually_encrypted_button_label">2</string>
+    <string name="api_encrypted_shared_prefs">APIEncryptedSharedPrefs</string>
+    <string name="api_encryption_alias">APIEncryptedSharedPreferencesAlias</string>
+    <string name="read_api_encrypted_button_label">3</string>
+    <string name="save_api_encrypted_button_label">3</string>
+    <string name="reset_button_label">reset</string>
+    <string name="key_not_found">%s key not found</string>
+</resources>
